@@ -1,0 +1,22 @@
+body{
+font-family:Arial;
+background:#26914f;
+}
+
+.sidebar{
+background:#663100;
+color:rgb(146, 135, 135);
+}
+
+.card{
+background:rgb(255, 255, 255);
+padding:20px;
+}
+
+body{
+    background:rgb(20, 116, 7);
+}
+
+h1{
+    color:white;
+}
